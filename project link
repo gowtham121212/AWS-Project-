@@ -1,0 +1,12 @@
+project : http://52.64.25.219/
+
+
+Over 30% of websites on the internet trust WordPress as their Content Management System (CMS). It's not just for blogs; it powers e-commerce sites, forums, and more.
+Dived deep into the technical intricacies of setting up a scalable infrastructure on the cloud. From provisioning EC2 instances to configuring web server Apache, fine-tuning database system MySQL, 
+and seamlessly integrating WordPress, as we navigate through EC2 instance creation, security group configurations, server-side optimizations, and database management. 
+With hands-on experience in setting up LAMP or LEMP stacks, 
+and harnessing the power of Elastic IP addresses for seamless domain mapping, this project empowers you to architect robust, high-performance websites on AWS.
+Here are the benefits of using AWS to deploy WordPress:
+• Scalability: AWS can easily scale your WordPress website as your traffic grows.
+• Security: AWS provides a secure environment for your WordPress website.
+• Reliability: AWS is a reliable platform for hosting your WordPress website.
